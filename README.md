@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @TheMasihZn
-- 👀 I’m interested in Android development and AI
-- 🌱 I’m currently learning Android Native development with C++
-- 💞️ I’m looking to collaborate on your projects with respect to my interests
+Android development and Data
+- currently learning Android Native development with C++
 - 📫 How to reach me: zarafshanmasih@gmail.com
 
 <!---
