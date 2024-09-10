@@ -1,5 +1,6 @@
-Android development and Data
-- currently learning Android Native development with C++
+Development and Data analist
+- Android Native development with C++
+- currently working on traffic simulation with carla
 - 📫 How to reach me: zarafshanmasih@gmail.com
 
 <!---
