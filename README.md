@@ -1,7 +1,7 @@
-Development and Data analist
-- Android development
-- currently working on traffic simulation with carla
-- 📫 How to reach me: zarafshanmasih@gmail.com
+Developer and Data analist
+- Android/Kotlin/Raspberrypi development
+- Data modeling and scenario optimization
+- Dies ist mein beruf doch bleibt mein Hobby
 
 <!---
 TheMasihZn/TheMasihZn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
