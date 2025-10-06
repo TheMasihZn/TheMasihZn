@@ -1,6 +1,7 @@
 Developer and Data analist
-- Android/Kotlin/Raspberrypi development
-- Data modeling and scenario optimization
+- AOSP/Kotlin/IntegratedSystems/DSL/Native development
+- Data Modeling and Visualization
+- Scenario Optimization
 - Dies ist mein beruf doch bleibt mein Hobby
 
 <!---
